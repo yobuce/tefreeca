@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://mosses2011.cafe24.com/tefreeca/|ftp://mosses2011.cafe24.com/tefreeca_unit/|ftp://ftp.tefreeca.16mb.com/tefreeca/|ftp://ftp.tefreeca.16mb.com/public_html/tefreeca/|게시\</PublishUrlHistory>
+    <InstallUrlHistory>http://mosses2011.cafe24.com/tefreeca/|http://mosses2011.cafe24.com/tefreeca_unit/|http://mosses2011.cafe24.com/tefreeca/tefreeca_install.htm/|http://tefreeca.16mb.com/tefreeca/tefreeca_install.htm/|http://tefreeca.16mb.com/tefreeca/tefreeca_install.htm</InstallUrlHistory>
+    <SupportUrlHistory>http://tefreeca.16mb.com</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://tefreeca.16mb.com</ErrorReportUrlHistory>
+    <FallbackCulture>ko-KR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-DEBUG</StartArguments>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+</Project>

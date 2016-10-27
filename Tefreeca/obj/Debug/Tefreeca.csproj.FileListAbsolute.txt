@@ -1,0 +1,2 @@
+C:\Users\yobuce\iCloudDrive\C_project\Tefreeca\Tefreeca\bin\Debug\Tefreeca.exe.config
+C:\Users\yobuce\iCloudDrive\C_project\Tefreeca\Tefreeca\bin\Debug\Tefreeca_server.exe.config
